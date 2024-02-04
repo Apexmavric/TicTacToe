@@ -76,6 +76,7 @@ export default function App() {
     setClickedBlocks(new Set());
     setWin(false);
     setPlayer(1);
+    setTie(false);
   }
   return (
     <>
